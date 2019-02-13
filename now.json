@@ -11,6 +11,7 @@
     }
   ],
   "env": {
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "admin_deny": "negative_squared_cross_mark"
   }
 }
